@@ -61,4 +61,4 @@ Shopiverse is designed to cater to both customers and sellers. Customers can eas
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/shopiverse.git
+   https://github.com/Saipavangundrathi/shopiverse.git
